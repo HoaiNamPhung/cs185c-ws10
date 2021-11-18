@@ -1,0 +1,20 @@
+ 2005  ./numbers.sh
+ 2006  vi numbers.sh
+ 2007  ./numbers.sh
+ 2008  vi numbers.sh
+ 2009  ./numbers.sh
+ 2010  vi numbers.sh
+ 2011  ./numbers.sh
+ 2012  vi numbers.sh
+ 2013  ./numbers.sh
+ 2014  time ./numbers.sh
+ 2015  vi numbers.sh
+ 2016  time ./numbers.sh
+ 2017  ls
+ 2018  touch ws10.txt
+ 2019  vi ws10.txt
+ 2020  ls
+ 2021  cmds.log
+ 2022  history
+ 2023  tail -n20 history > cmds.log
+ 2024  history | tail -n20 > cmds.log
